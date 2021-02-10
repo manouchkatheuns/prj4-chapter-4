@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body {
+    background-image: url(../images/heyyou.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    width: 341px;
+    border-radius: 100px;
+    border: thick ridge #C68300;
+    height: 105px;
+}
+#my-id {
+    color: #EF0DFF;
+}
+.my-container {
+    background-color: #030358;
+    border-radius: 20;
+    color: #0DF1EB;
+    border-width: thin;
+    border-style: dashed;
+    width: 777px;
+}
